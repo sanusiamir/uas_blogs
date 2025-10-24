@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="28.2.8">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="28.2.8">
   <diagram name="Halaman-1" id="e8A_hsP7aSUE411Jkm1g">
-    <mxGraphModel dx="1924" dy="1051" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1042" dy="562" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -288,7 +288,7 @@
         <mxCell id="1V6bp7kO9RsNTH_jpQ0x-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="1V6bp7kO9RsNTH_jpQ0x-1" target="1V6bp7kO9RsNTH_jpQ0x-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1V6bp7kO9RsNTH_jpQ0x-1" value="warga membuat pengaduan" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="1V6bp7kO9RsNTH_jpQ0x-1" value="warga membuat laporan pengaduan" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="160" y="1180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1V6bp7kO9RsNTH_jpQ0x-3" value="start" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
@@ -458,7 +458,7 @@
         <mxCell id="1V6bp7kO9RsNTH_jpQ0x-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="1V6bp7kO9RsNTH_jpQ0x-55" target="1V6bp7kO9RsNTH_jpQ0x-57" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1V6bp7kO9RsNTH_jpQ0x-55" value="publlikasi di portal website" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="1V6bp7kO9RsNTH_jpQ0x-55" value="publikasi di portal website" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1140" y="1330" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1V6bp7kO9RsNTH_jpQ0x-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="1V6bp7kO9RsNTH_jpQ0x-57" target="1V6bp7kO9RsNTH_jpQ0x-60" edge="1">
@@ -505,6 +505,15 @@
         </mxCell>
         <mxCell id="1V6bp7kO9RsNTH_jpQ0x-70" value="end" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="1010" y="1880" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-xm7T7xVormUMDc05tMb-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-xm7T7xVormUMDc05tMb-1" target="-xm7T7xVormUMDc05tMb-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-xm7T7xVormUMDc05tMb-1" value="start" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="180" y="1990" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-xm7T7xVormUMDc05tMb-3" value="warga membuat laporan" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="2160" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
