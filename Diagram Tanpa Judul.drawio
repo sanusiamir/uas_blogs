@@ -330,7 +330,7 @@
         <mxCell id="1V6bp7kO9RsNTH_jpQ0x-7" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;LMK mengecek data apakah valid&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="157.5" y="1420" width="125" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="1V6bp7kO9RsNTH_jpQ0x-9" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="1V6bp7kO9RsNTH_jpQ0x-9" value="lmk&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="160" y="1600" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
