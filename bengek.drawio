@@ -61,7 +61,7 @@
         <mxCell id="fE8Gq1P3M5BsxLgmTYBK-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="= jumlah coin" vertex="1">
           <mxGeometry height="30" width="110" x="1954" y="1930" as="geometry" />
         </mxCell>
-        <mxCell id="fE8Gq1P3M5BsxLgmTYBK-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="karakter" vertex="1">
+        <mxCell id="fE8Gq1P3M5BsxLgmTYBK-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;karakter&lt;/font&gt;" vertex="1">
           <mxGeometry height="120" width="200" x="2070" y="1980" as="geometry" />
         </mxCell>
         <mxCell id="fE8Gq1P3M5BsxLgmTYBK-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
@@ -107,10 +107,10 @@
           <mxGeometry height="25" width="170" x="2200" y="2590" as="geometry" />
         </mxCell>
         <mxCell id="fE8Gq1P3M5BsxLgmTYBK-31" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.star" value="" vertex="1">
-          <mxGeometry height="15" width="22.5" x="2273.75" y="2595" as="geometry" />
+          <mxGeometry height="15" width="22.5" x="2275.5" y="2595" as="geometry" />
         </mxCell>
         <mxCell id="fE8Gq1P3M5BsxLgmTYBK-32" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.star" value="" vertex="1">
-          <mxGeometry height="15" width="20" x="2300" y="2597.5" as="geometry" />
+          <mxGeometry height="15" width="20" x="2302.5" y="2597.5" as="geometry" />
         </mxCell>
         <mxCell id="fE8Gq1P3M5BsxLgmTYBK-44" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.star" value="" vertex="1">
           <mxGeometry height="15" width="20" x="2250" y="2597.5" as="geometry" />
